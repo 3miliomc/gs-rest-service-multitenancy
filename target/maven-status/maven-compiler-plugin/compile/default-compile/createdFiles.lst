@@ -1,0 +1,7 @@
+com\rpa\demo\tenancy\FacturaController.class
+com\rpa\demo\tenancy\Factura.class
+com\rpa\demo\tenancy\tenant\TenantContext$1.class
+com\rpa\demo\tenancy\tenant\TenantContext.class
+com\rpa\demo\tenancy\Application.class
+com\rpa\demo\tenancy\configuration\WebMvcConfig.class
+com\rpa\demo\tenancy\tenant\TenantInterceptor.class
